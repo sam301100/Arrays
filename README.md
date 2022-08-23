@@ -20,3 +20,6 @@ Selection Sort
 
 
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/89501759/186210599-721b527b-b226-48f5-b8f6-fe3807fe8e97.png">
+
+
+Extra memory requirement for auxilliary array or temperary array B
